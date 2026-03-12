@@ -63,3 +63,5 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+Power bi
+Sql server
